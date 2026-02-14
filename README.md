@@ -10,8 +10,7 @@ Projeto de placa PCB para acionamento de relé utilizando transistor NPN.
 - Diodo de flyback para proteção
 
 ## 📷 Render 3D
-Placa 1 - Módulo Relé.png
-
+![Render da PCB](Placa 1 - Módulo Relé.png)
 
 
 ## 📂 Arquivos do projeto
