@@ -15,9 +15,9 @@ Projeto de placa PCB para acionamento de relé utilizando transistor NPN.
 
 ## 📂 Arquivos do projeto
 
-- Esquemático (.kicad_sch)
-- PCB (.kicad_pcb)
-- Arquivo do projeto (.kicad_pro)
+- Esquemático (Placa 1 - Módulo Relé.kicad_sch)
+- PCB (Placa 1 - Módulo Relé.kicad_pcb)
+- Arquivo do projeto (Placa 1 - Módulo Relé.kicad_pro)
 
 ## 🛠️ Software
 
